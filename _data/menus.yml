@@ -1,9 +1,2 @@
-- title: "Index"
+- title: "home"
   url:   ""
-
-- title: "Github"
-  absoluteUrl: true
-  url: "https://github.com/john_doe"
-
-- title: "About"
-  url:   "about"
