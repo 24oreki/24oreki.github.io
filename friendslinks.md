@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "友情链接"
+title: "友链"
 permalink: /friendslinks/
 ---
 
-# 友情链接
+# 友链
 
 这里可以列出你喜欢的朋友网站链接或其他相关的链接。
 
