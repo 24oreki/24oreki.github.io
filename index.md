@@ -38,6 +38,8 @@ title: Welcome
 
 ## 2025年新年贺词
 
+`    ` 
+
 先祝2025年对我好一点。。
 
 `    ` 
@@ -52,8 +54,11 @@ title: Welcome
 
 所以哪怕是社会负能量重 但也要过好自己呀 毕竟 也不是我们的错误
 
+`    ` 
 
 ### About me 
+
+`    ` 
 
 -twitter:https://x.com/24oreki
 
