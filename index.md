@@ -65,17 +65,17 @@ title: Welcome
 
 `    ` 
 
--[telegram](https://t.me/oreki_24) : https://t.me/oreki_24
+-[telegram](https://t.me/oreki_24) : [https://t.me/oreki_24](https://t.me/oreki_24)
 
 `    ` 
 
--[telegram channel](https://t.me/orekibosss) : https://t.me/orekibosss
+-[telegram channel](https://t.me/orekibosss) : [https://t.me/orekibosss](https://t.me/orekibosss)
 
 `    ` 
 
--[Oreki的日常记录](https://oreki.cool/daily) : https://oreki.cool/daily
+-[Oreki的日常记录](https://oreki.cool/posts) : [https://oreki.cool/daily](https://oreki.cool/posts)
 
 `    ` 
 
--[Oreki的朋友链接](https://oreki.cool/frinedslinks) : https://oreki.cool/frinedslinks
+-[Oreki的朋友链接](https://oreki.cool/friendslinks) : [https://oreki.cool/frinedslinks](https://oreki.cool/friendslinks)
 
