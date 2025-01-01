@@ -61,21 +61,21 @@ title: Welcome
 
 `    ` 
 
--twitter:https://x.com/24oreki
+-[twitter](https://x.com/24oreki) : https://x.com/24oreki
 
 `    ` 
 
--telegram:https://t.me/oreki_24
+-[telegram](https://t.me/oreki_24) : https://t.me/oreki_24
 
 `    ` 
 
--tekegram channel:https://t.me/orekibosss
+-[telegram channel](https://t.me/orekibosss) : https://t.me/orekibosss
 
 `    ` 
 
--Oreki的日常记录:https://oreki.cool/daily
+-[Oreki的日常记录](https://oreki.cool/daily) : https://oreki.cool/daily
 
 `    ` 
 
--Oreki的朋友链接:https://oreki.cool/frineds%20links
+-[Oreki的朋友链接](https://oreki.cool/frinedslinks) : https://oreki.cool/frinedslinks
 
