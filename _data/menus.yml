@@ -1,8 +1,11 @@
 - title: "home"
   url:   ""
 
+- title: "日记"
+  url:   "daily"
+  
 - title: "友链"
-  url:   "友链"
+  url:   "frineds links"
   
 - title: "About me"
   url:   "about me"
