@@ -11,6 +11,7 @@ permalink: /friendslinks/
 - [Libra](https://libra.wiki) [https://libra.wiki](https://libra.wiki)
 -- 一位喜欢吃炒饭和喝奶茶的会计师
 
-'     '
+`    ` 
+
 -[Buprofen](https://benzone.tech) [https://benzone.tech](https://benzone.tech)
 --一位被耽误的PPT设计大神 
