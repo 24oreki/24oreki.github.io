@@ -61,7 +61,7 @@ title: Welcome
 
 `    ` 
 
--[twitter](https://x.com/24oreki) : https://x.com/24oreki
+-[twitter](https://x.com/24oreki) : [https://x.com/24oreki](https://x.com/24oreki)
 
 `    ` 
 
