@@ -73,9 +73,9 @@ title: Welcome
 
 `    ` 
 
--[Oreki的日常记录](https://oreki.cool/posts) : [https://oreki.cool/daily](https://oreki.cool/posts)
+-[Oreki的日常记录](https://oreki.cool/posts) : [https://oreki.cool/posts](https://oreki.cool/posts)
 
 `    ` 
 
--[Oreki的朋友链接](https://oreki.cool/friendslinks) : [https://oreki.cool/frinedslinks](https://oreki.cool/friendslinks)
+-[Oreki的朋友链接](https://oreki.cool/friendslinks) : [https://oreki.cool/friendslinks](https://oreki.cool/friendslinks)
 
