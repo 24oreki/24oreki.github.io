@@ -1,0 +1,12 @@
+# 网站的基本配置
+title: My GitHub Pages
+description: Built with Jekyll and GitHub Pages
+baseurl: "24oreki/24oreki.github.io"  # 替换成你的仓库名
+url: "https://24oreki.github.io" # 替换成你的 GitHub Pages URL
+
+# 构建设置
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
