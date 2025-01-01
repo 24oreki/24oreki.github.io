@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "所有文章"
+title: "Oreki小型日记本"
 permalink: /posts/
 ---
 
-# 所有文章
+# Oreki小型日记本
 
 {% for post in site.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
