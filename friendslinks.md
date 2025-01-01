@@ -6,7 +6,7 @@ permalink: /friendslinks/
 
 # 友链
 
-这里可以列出你喜欢的朋友网站链接或其他相关的链接。
+-这里都是我最好的朋友🥰
 
-- [我的第一个链接](http://example.com)
-- [我的第二个链接](http://example2.com)
+- [Libra](https://libra.wiki) https://libra.wiki -一位喜欢吃炒饭和喝奶茶的会计师
+
