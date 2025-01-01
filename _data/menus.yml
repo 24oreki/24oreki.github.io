@@ -1,8 +1,9 @@
-- default: menu_home
+- title: "Index"
   url:   ""
 
-- default: menu_category
-  url:   "category"
+- title: "Github"
+  absoluteUrl: true
+  url: "https://github.com/john_doe"
 
-- default: menu_about
+- title: "About"
   url:   "about"
