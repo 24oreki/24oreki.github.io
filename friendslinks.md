@@ -14,12 +14,6 @@ permalink: /friendslinks/
 
 `    ` 
 
-- [Buprofen](https://benzone.tech) [https://benzone.tech](https://benzone.tech)
-
--- 一位被耽误的PPT设计大神 
-
-`    ` 
-
 - [XC困困](https://spacexc.net] [https://spacexc.net](https://spacexc.net)
 
 -- 一位经常睡不醒的困困高中生
